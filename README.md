@@ -1,1 +1,1 @@
-# planetpulse.github.io
+# planet-pulse.github.io
